@@ -1,9 +1,9 @@
 # HR-Dashboard_Project-MySQL-PowerBI
-<img width="1181" height="630" alt="Screenshot 2026-03-09 210825" src="https://github.com/user-attachments/assets/a1f9b1b2-1e7e-46c4-b348-cd50d005a8a5" />
+<img width="1181" height="630" alt="Screenshot 2026-03-09 210825" src="https://github.com/user-attachments/assets/ae97be66-7271-4bd8-9f10-b782d03c180e" />
 <img width="1159" height="632" alt="Screenshot 2026-03-09 223248" src="https://github.com/user-attachments/assets/6773a732-a2d5-4759-8445-aed0a6483d3d" />
 
 ## Data Used
-**Data** - HR Data with over 22000 rows from the year 2000 to 2026.<br>
+**Data** - HR Data with over 22000 rows from the year 2000 to 2020.<br>
 **Data Cleaning & Analysis** - MySQL Workbench<br>
 **Data Visualization** - PowerBI 
 ## Questions
